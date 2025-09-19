@@ -3,11 +3,11 @@ An exploit inspired from Sh1ttyoobe and Corkey which uses omada dns to allow you
 Requirements:
 Unblocked Internet with permission to change nameservers (Home or School Guest Network)
 A brain
-#Features
+# Features
 No tracking or blocking extensions
 The ability to change and/or customize your wallpaper settings
 more we haven't discovered
-#HOW TO DO THE EXPLOIT
+# HOW TO DO THE EXPLOIT
 1. Powerwash (CTRL+ALT+SHIFT+R) or Go to dev mode and back.
 2. Connect To internet. (DO NOT PRESS GET STARTED)
 3. Set DNS servers to 66.23.198.252 and 66.94.105.229 (Do this on all networks)
