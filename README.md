@@ -27,7 +27,7 @@ you may not say the exploit is yours and/or you found it
 ## What you can do:
 give instructions on how to do it  
 show things you can do with this  
-Me (@thefakesydney) and @Cuhassle are NOT Responsible for what you do with this!  
+### Me (@thefakesydney) and @Cuhassle are NOT Responsible for what you do with this!  
 # Credits
 @Cuhassle and me @thefakesydney, for finding the exploit  
 sh1ttyoobe for inspiring us to try these stupid steps (control alt shift r is blocked on our chromebooks)  
