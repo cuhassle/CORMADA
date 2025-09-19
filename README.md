@@ -13,6 +13,7 @@ more we haven't discovered
 3. Set DNS servers to 66.23.198.252 and 66.94.105.229 (Do this on all networks)
 4. Set up chromebook normally
 5. profit
+
 #Tested for 
 Chromebooks with Securly for chromebooks and securly classroom (blockers) as well as the history logger/tracker learnplatform.
 Haven't tested with other extensions yet. Feel free to try it out!
