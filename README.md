@@ -21,7 +21,6 @@ Haven't tested with other extensions yet. Feel free to try it out!
 Q: Will this work if I connect to a wifi network without the custom nameservers or if I change them back to automatic?  
 A: No, I will not. Your organization's policies will automatically be applied, as well as the blocking extensions and spyware. 
 # Policy
-# What you can't do:
 ## What you can't do:
 if you make a youtube video, tiktok, etc you may NOT discredit Me (@thefakesydney) and @Cuhassle  
 you may not say the exploit is yours and/or you found it  
