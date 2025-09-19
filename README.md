@@ -10,7 +10,7 @@ more we haven't discovered
 # HOW TO DO THE EXPLOIT
 1. Powerwash (CTRL+ALT+SHIFT+R) or Go to dev mode and back.
 2. Connect To internet. (DO NOT PRESS GET STARTED)
-3. Set DNS servers to 66.23.198.252 and 66.94.105.229 (Do this on all networks)
+3. Set DNS servers to: >66.23.198.252 and >66.94.105.229 (Do this on all networks)
 4. Set up chromebook normally
 5. profit
 
