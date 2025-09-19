@@ -33,5 +33,5 @@ A: No, I will not. Your organization's policies will automatically be applied, a
 sh1ttyoobe for inspiring us to try these stupid steps (control alt shift r is blocked on our chromebooks)  
 @crazycrystals, any other creators of OmadaDNS that I didn't mention  
 Creators of Corkey for inspiring us to think about the idea of extensions "corrupting"  
-#sigma kajig
+# sigma kajig
 forgive my lack of knowledge of github markup
